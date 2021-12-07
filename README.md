@@ -1,5 +1,5 @@
 # Olá! 🙂
- Sou Vinícius e atendo por qualquer pronome. Estou em formação pela [Generation Brasil](https://brazil.generation.org/) para se tornar uma pessoa desenvolvedora Fullstack Java Jr.
+ Sou Vinícius e atendo por qualquer pronome. Estou em formação pela [Generation Brasil](https://brazil.generation.org/) para se tornar uma pessoa desenvolvedora fullstack Java Jr.
 
 <div>
   
