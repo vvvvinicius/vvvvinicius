@@ -2,7 +2,7 @@
 
 ## Olá! <img src="https://openmoji.org/data/color/svg/1F506.svg" width="30" height="30">
 Sou Vinícius.
-Sou uma pessoa não-binária agênera e não tenho preferências de pronomes e atendo por: ele/dele, ela/dela ou elu/delu.
+Sou uma pessoa não-binária agênera, não tenho preferências de pronomes e atendo por: ele/dele, ela/dela ou elu/delu.
 
 Tenho formação na [Generation Brasil](https://brazil.generation.org/) em pessoa desenvolvedora fullstack Java Jr.
 
